@@ -1,0 +1,24 @@
+com/example/myapplication/item.java
+ com.example.myapplication.item
+com/example/myapplication/AddUserActivity.java
+ com.example.myapplication.AddUserActivity
+ com.example.myapplication.AddUserActivity$1
+com/example/myapplication/database/UserDbSchema.java
+ com.example.myapplication.database.UserDbSchema
+ com.example.myapplication.database.UserDbSchema$UserTable
+ com.example.myapplication.database.UserDbSchema$UserTable$Cols
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/database/UserBaseHelper.java
+ com.example.myapplication.database.UserBaseHelper
+com/example/myapplication/Users.java
+ com.example.myapplication.Users
+com/example/myapplication/UserCursorWrapper.java
+ com.example.secondapp.UserCursorWrapper
+com/example/myapplication/User.java
+ com.example.myapplication.User
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+ com.example.myapplication.MainActivity$UserAdapter
+ com.example.myapplication.MainActivity$UserHolder

@@ -5,6 +5,21 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Добавить пользователя"
+        android:id="@+id/addUser"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Удалить пользователя"
+        android:id="@+id/delUser"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Изменить пользователя"
+        android:id="@+id/changeUser"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview"
